@@ -5,7 +5,7 @@
 
 # binary-bot
 
-![result](imgs/mac_forex.jpg)
+
 
 This Project is under development. Any doubts or suggestion can be done  by email at 97josephkibira@gmail.com.
 
