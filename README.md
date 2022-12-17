@@ -4,7 +4,17 @@
 # IQ Option Test Trades
 
 # binary-bot
+Test 1
 
+![Screenshot (52)](https://user-images.githubusercontent.com/33089347/208244109-44aa8160-352f-4b66-bb5c-696491020283.png)
+
+Test 2
+
+![Screenshot (51)](https://user-images.githubusercontent.com/33089347/208244115-13e6f794-51b6-4020-8fd3-5211a3fba8cc.png)
+
+Test 3
+
+![Screenshot (50)](https://user-images.githubusercontent.com/33089347/208244117-ad99b01c-bffb-4dd3-8661-2a0b189b9fe5.png)
 
 
 This Project is under development. Any doubts or suggestion can be done  by email at 97josephkibira@gmail.com.
