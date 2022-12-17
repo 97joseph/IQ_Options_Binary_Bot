@@ -7,8 +7,7 @@
 
 ![result](imgs/mac_forex.jpg)
 
-Project of AI class at UFPB
-This Project is under development. Any doubts or suggestion can be done in the Issues tab or by email.
+This Project is under development. Any doubts or suggestion can be done  by email at 97josephkibira@gmail.com.
 
 ## Contents
 - [Motivation](#Motivation)
